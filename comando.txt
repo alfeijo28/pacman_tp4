@@ -1,0 +1,1 @@
+g++ games.cpp pontuacao.cpp ghosts.cpp -lallegro -lallegro_image -lallegro_acodec -lallegro_audio -lallegro_ttf -lallegro_font -o teste
